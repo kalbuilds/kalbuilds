@@ -61,7 +61,6 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=kalbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaleab's GitHub stats" height="170" />
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kalbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Kaleab's most used languages" height="170" />
 

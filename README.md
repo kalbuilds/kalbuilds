@@ -1,12 +1,6 @@
-<div align="center">
+# 👋 Hi, I'm Kaleab Sintayehu
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kaleab%20Sintayehu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer%20%7C%20Aspiring%20Full-Stack&descSize=16&descAlignY=60" alt="Kaleab Sintayehu banner" width="100%" />
-
-<a href="https://github.com/kalbuilds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+clean%2C+responsive+web+apps;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Growing+into+full-stack+with+Node.js+%26+SQL;Learning+TypeScript+and+Python;Curious.+Consistent.+Always+improving." alt="Typing animation" />
-</a>
-
-<br />
+### Software Engineering Student | Front-End Developer | Aspiring Full-Stack Developer
 
 I'm a Software Engineering student at **Jimma University, Ethiopia**, passionate about building modern, responsive, and user-friendly web applications.
 
@@ -63,18 +57,27 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalbuilds&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalbuilds&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-### 🔥 Contribution Streak
+  <img src="https://github-stats-extended.vercel.app/api?username=kalbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaleab's GitHub stats" height="170" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kalbuilds&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kalbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Kaleab's most used languages" height="170" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=kalbuilds&theme=tokyonight&hide_border=true" alt="Kaleab's contribution streak" />
+
+  <details>
+    <summary><b>📈 View contribution activity graph</b></summary>
+    <br />
+
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalbuilds&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%" />
+
+  </details>
+
+</div>
 
 ---
 
@@ -106,27 +109,32 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
 
 I'm always interested in connecting with developers, learning from others, collaborating on projects, and exploring new opportunities.
 
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:kaleabsintayehu489@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kalbuilds">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="mailto:kaleabsintayehu489@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/kalbuilds">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Great software is built through curiosity, consistency, and continuous learning."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<i>"Great software is built through curiosity, consistency, and continuous learning."</i>
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
+
+</div>

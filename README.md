@@ -69,12 +69,15 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
   <img src="https://streak-stats.demolab.com?user=kalbuilds&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
+
+You can explore my contributions, coding activity, and repositories on my GitHub profile.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalbuilds&theme=tokyo-night&hide_border=true" width="100%" />
+  <a href="https://github.com/kalbuilds">
+    <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 🧠 Currently Learning & Improving

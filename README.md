@@ -110,11 +110,11 @@ I'm always interested in connecting with developers, learning from others, colla
 
 <div align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/kaleab-sintayehu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://kalbuilds.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 

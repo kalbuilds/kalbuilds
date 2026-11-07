@@ -110,7 +110,7 @@ I'm always interested in connecting with developers, learning from others, colla
 
 <div align="left">
 
-<a href="www.linkedin.com/in/kaleab-sintayehu">
+<a href="https://linkedin.com/in/kaleab-sintayehu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 

@@ -1,7 +1,7 @@
 
 name: Update GitHub Profile Statistics
 
-on:
+'on':
   schedule:
     - cron: "0 0 * * *"
 
@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Generate profile statistics
         uses: seijikohara/profile-cards-action@v1
@@ -27,4 +27,3 @@ jobs:
           output-dir: assets
           themes: light,dark
           commit: true
-

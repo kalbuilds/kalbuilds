@@ -59,24 +59,34 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
 
 ## 📊 GitHub Stats
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
+### Overview
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kalbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Kaleab's most used languages" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%" />
+</picture>
 
-  <br />
+### Contribution Activity
 
-  <img src="https://streak-stats.demolab.com?user=kalbuilds&theme=tokyonight&hide_border=true" alt="Kaleab's contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub Contribution History" width="100%" />
+</picture>
 
-  <details>
-    <summary><b>📈 View contribution activity graph</b></summary>
-    <br />
+### Top Languages
 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalbuilds&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-  </details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" alt="Top Programming Languages" width="100%" />
+</picture>
 
 </div>
+
 
 ---
 

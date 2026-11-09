@@ -57,9 +57,6 @@ My primary focus is front-end development with React, JavaScript, and modern UI 
 
 ---
 
-## 📊 GitHub Stats
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
